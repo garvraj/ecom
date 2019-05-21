@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image1.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "2",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image2.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "3",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image3.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "4",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image4.png",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "5",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image5.gif",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "6",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image6.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "7",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image7.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "8",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image8.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    },
+    {
+        "id": "9",
+        "name": "Solid Men Polo Neck Black, White T-Shirt",
+        "actualPrice": "₹1,299",
+        "discountPrice": 480,
+        "brand": "Meoby",
+        "image": "../../assets/images/image9.jpg",
+        "Size": "S, M, L, XL",
+        "quantity":1
+    }
+]

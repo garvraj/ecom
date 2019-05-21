@@ -1,0 +1,38 @@
+<app-header></app-header>
+
+<div class="container-fluid">
+
+  <div class="row">
+    <div class="col-md-12" style="margin-top: 38px;">
+      <div class="row" style="margin: 24px">
+        <div class="col-md-4" *ngFor="let item of productList">
+          <figure class="snip1423">
+            <img [src]=item.image alt="img" />
+            <figcaption>
+              <h3>{{item.brand}}</h3>
+              <p>{{item.name}}</p>
+              <div class="price">
+                <div>₹{{item.discountPrice}}</div>
+                <div class="act-price">{{item.actualPrice}}</div>
+              </div>
+            </figcaption>
+            <div class="row">
+              <div class="col-md-6">
+                <a href="" class="btn btn-success btn-sm btn-block text-uppercase img-button" routerLink="/cart"
+                  (click)="addToCart(item)">
+                  <i class="fa fa-shopping-cart"></i> Add To Cart
+                </a></div>
+              <div class="col-md-6">
+                <a class="btn btn-success btn-sm btn-block text-uppercase img-button" routerLink="/checkout"
+                  (click)="addToCart(item)">
+                  <i class="fa fa-caret-square-o-right"></i> Buy Now
+                </a></div>
+            </div>
+          </figure>
+        </div>
+        <div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
